@@ -125,9 +125,6 @@ body {
 	background: #E9DCC9;
 	border-top: 1px solid rgba(214, 195, 167, 0.34);
     }   
-.l_clr{
-    color:#805752;
-    } 
 /* navbar bottom*/
 .navbar-customA {
     border-color: #ffffff;
