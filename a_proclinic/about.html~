@@ -1,0 +1,136 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Proclinic Expal</title>
+    <meta http-equiv="Content-Language" content="hi">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- Bootstrap CDN-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Optional theme -->
+    <!--End Bootstrap CDN-->
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+</head>
+<div class="row-fluid">
+    <img class="img-responsive" src="images/banner.png" alt="header banner" />
+</div>
+<nav class="navbar navbar-custom" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button id="togl" class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Menu</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+       <a class="navbar-brand" rel="home" href="#" title="Dayama Hospital">
+        <img style="max-width:100%; margin-top: -12px;"
+             src="images/logo.png">
+        </a>
+    </div>
+    <div class="collapse navbar-collapse bs-navbar-collapse"> 
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="index.html">HOME</a>
+        </li>
+        <li class="active">
+          <a href="#">ABOUT US</a>
+        </li>
+        <li class="dropdown"><a href="#service" class="dropdown-toggle" data-toggle="dropdown">SERVICES</a>
+              <ul class="dropdown-menu">
+                  <li><a href="#krpr">Sri Karanpur</a></li>
+                  <li><a href="#pdpr">Padampur</a></li>
+                  <li><a href="#rsnr">Raisinghnagar</a></li>
+                  <li><a href="#gspr">Gajsingh pur</a></li>
+                  <li><a href="#apgh">Anoopgarh</a></li>
+                  <li><a href="#ghsn">Gharsana</a></li>
+                  <li><a href="#abhr">Abohar</a></li>
+                  <li><a href="#mlot">Malout</a></li>
+              </ul>
+        </li>
+        <li class="dropdown"><a href="#falilty" class="dropdown-toggle" data-toggle="dropdown">FACILITIES</a>
+              <ul class="dropdown-menu">
+                  <li><a href="#theatre">Operation Theatre</a></li>
+                  <li><a href="#ward">Patient Ward</a></li>
+                  <li><a href="#medical">Medical Store</a></li>
+                  <li><a href="#lab">Laboratory</a></li>
+                  <li><a href="#e_center">Endoscopy Center</a></li>
+                  <li><a href="#opd">OPD</a></li>
+                  <li><a href="#test">Audiometer Testing</a></li>
+              </ul>
+        </li>
+        <li>
+          <a href="#">CONTACT US</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+</nav>
+    <body>
+       <div class="container">
+       <div class="col-md-8">
+            <h2>About Us</h2>
+			<h4>Here text to know about us.....</h4>
+            <div class="media">
+            <img class="pull-left media-object img-thumbnail img-responsive" src="images/about.jpg" />
+            <div class="media-body">
+			<p class="text-justify">Suncity Hospital and Research Centre brings together a dedicated team of Doctors, nurses, and other healthcare professionals to provide the highest standards of medical treatment. Our full range of primary and specialty care medical services enables cross-specialty consultation, which assures outstanding treatment for each patient. We offers a total and comprehensive health solution comparable to the other hospitals in region. The Suncity Hospital's team is comprised of physicians, surgeons and other healthcare professionals of the highest calibre and experience.</p>
+            </div>
+            </div>
+			<p class="text-justify">This private hospital is considered to be among the best equipped and staffed hospitals in Jodhpur . The hospital was built in 1992 on main road entering Jodhpur from a well known place of historic values- Mandore. It is also very close to world fame A Umaid Bhavan and Jodhpur Mehrangarh fort. Hospital is very close to Bus station and just about 2 Kms from railway station. Hospital is easily accessible for patients coming from suburban areas and also from the city. It has ample parking space in the front and has many general, departmental stores and hotels and restaurants in very close vicinity catering for daily amenities.</p>
+			<p class="text-justify">In a developing corporate healthcare market the largest challenge is to provide world-class healthcare at affordable prices. And it is in this aspect that Suncity Hospital has succeeded. The organisation has achieved profitability through a "high volume - high quality - affordable price" model of business. This approach has benefited lakhs of families and earned Suncity Hospitals a place in the hearts of the people of Rajasthan.</p>
+			<p class="text-justify">The most significant factor in the success of Suncity Hospital is a deep commitment to quality. The fabric of the organisation is woven with highly qualified clinicians, cutting-edge medical systems, certified and accredited processes, and most importantly, the personal touch in patient care.</p>
+    <a href="#" class="btn btn-primary btn-danger">Read More</a>
+       </div>
+       <div class="col-md-4">
+            <h2>Key Features</h2>
+            <div class="media">
+               <a class="pull-left" href="#"> <img class="media-object img-thumbnail" src="./images/blog1.jpg" alt="blog-1" /></a>
+                <div class="media-body">    
+                    <h5 class="media-heading">Lorem ipsum dolor sit amet consec.</h5>
+                    <p class="text-justify"><span>Posted on May 13th, 2013 by Finibus Bonorum</span>There are many variations of passages of Lorem Ipsum available, but the majority have,,</p>
+                </div>
+               <a class="pull-left" href="#"> <img class="media-object img-thumbnail" src="./images/blog2.jpg" alt="blog-1" /></a>
+                <div class="media-body">    
+                    <h5 class="media-heading">Lorem ipsum dolor sit amet consec.</h5>
+                    <p class="text-justify"><span>Posted on May 13th, 2013 by Finibus Bonorum</span>There are many variations of passages of Lorem Ipsum available, but the majority have,,</p>
+                </div>
+               <a class="pull-left" href="#"> <img class="media-object img-thumbnail" src="./images/blog3.jpg" alt="blog-1" /></a>
+                <div class="media-body">    
+                    <h5 class="media-heading">Lorem ipsum dolor sit amet consec.</h5>
+                    <p class="text-justify"><span>Posted on May 13th, 2013 by Finibus Bonorum</span>There are many variations of passages of Lorem Ipsum available, but the majority have,,</p>
+                </div>
+            </div>
+       </div>
+   </div>
+   <div class="container-fluid" id="bg_color">
+     <div class="navbar navbar-custom_a navbar-bottom">
+         <div class="container">
+          <ul class="nav navbar-nav">
+            <li class="active">
+              <a href="index.html">HOME</a>
+            </li>
+            <li>
+              <a href="#">ABOUT US</a>
+            </li>
+            <li>
+              <a href="#">SERVICES</a>
+            </li>
+            <li>
+              <a href="#">FACILITIES</a>
+            </li>
+            <li>
+              <a href="#">CONTACT US</a>
+            </li>
+          </ul>
+			<p class="pull-right">© All Rights Reserved | Design by&nbsp; <a style="text-decoration:none; color:#DC3B4B;" href="http://dhamu28.github.io/dhamu.in/"> <strong>Jugal Dhamu</strong></a></p>
+         </div>
+     </div>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    </body>
+</html>
