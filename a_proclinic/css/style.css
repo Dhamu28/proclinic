@@ -112,6 +112,12 @@ body {
 #p.container-fluid h3, h4, p{
     color:#805752;
     }   
+#p.container h1, h2{
+    color:#c73644;
+    }   
+#p.container h3, h4, p{
+    color:#805752;
+    }   
 #bg_color.container-fluid{
     color:#805752;
 	background: #E9DCC9;
@@ -125,12 +131,26 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.box { 
+   width: 250px; 
+   height: 333px;
+   border: 3px solid #ebcfc1; 
+   padding: 5px; } 
+.box:hover { 
+   width: 260px; 
+   height: 346px;
+   border: 5px solid #ebcfc1; 
+   padding: 5px; } 
+    }
 /* navbar bottom*/
 
 /* link */
 .navbar-custom_a .navbar-nav > li > a {
     color: #c73644;
 }
+#a_clr > li > a {
+    color: #c73644;
+    } 
 .navbar-custom_a .navbar-nav > li > a:hover,
 .navbar-custom_a .navbar-nav > li > a:focus {
 	text-shadow: 0 1px 0 #EBEBEB;
