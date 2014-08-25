@@ -142,15 +142,17 @@ body {
    border: 5px solid #ebcfc1; 
    padding: 5px; } 
     }
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}   
 /* navbar bottom*/
 
 /* link */
 .navbar-custom_a .navbar-nav > li > a {
     color: #c73644;
 }
-#a_clr > li > a {
-    color: #c73644;
-    } 
 .navbar-custom_a .navbar-nav > li > a:hover,
 .navbar-custom_a .navbar-nav > li > a:focus {
 	text-shadow: 0 1px 0 #EBEBEB;
